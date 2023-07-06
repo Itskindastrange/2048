@@ -1,0 +1,3 @@
+﻿  2048.cpp
+C:\Users\Abdul\source\repos\PF project\PF project\2048.cpp(284,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PF project.vcxproj -> C:\Users\Abdul\source\repos\PF project\x64\Debug\PF project.exe
